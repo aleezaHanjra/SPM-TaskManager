@@ -6,3 +6,4 @@ This is a collaborative Task Manager Application built as part of the Software P
 ## Tools & Technologies
 * **Version Control:** Git & GitHub
 * **Environment:** Command Line / Code Editor
+* Development path updated by Team Member B.
